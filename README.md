@@ -56,6 +56,7 @@ In today’s digital world, hiding and decrypting sensitive information securely
 ---
 
 ## output
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/adaa2e7b-dc52-4eca-87bb-e1d2666072a1" />
+<img width="512" height="411" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/2303c834-a130-4e65-b33b-5535d9cdda4f" />
+
 
 
